@@ -1,0 +1,18 @@
+.Dogs {
+    border: 2px solid black;
+    width: 300px;
+    margin-left: 300px;
+    
+  }
+  
+  .Dogs img {
+    width: 150px;
+    height: 150px;
+    margin-left: 80px;
+  }
+  
+  .Dogs h1 {
+    color: red;
+    text-align: center;
+  }
+  
